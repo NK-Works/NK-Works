@@ -1,6 +1,5 @@
 <!-- Intro Statement -->
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! 
-<a href="https://github.com/NK-Works"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></a><a href="https://github.com/walidbosso"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=NK-Works&style=for-the-badge&color=blue"></a>
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/NK-Works"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></a><a href="https://github.com/walidbosso"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=NK-Works&style=for-the-badge&color=blue"></a>
 
 <!-- Banner -->
 <a href="https://github.com/NK-Works"> 
