@@ -260,7 +260,7 @@
 
 <!--THANKS-->
  <p align="center">
-<a href="upi://pay?pa=anneshunag@oksbi&pn=Anneshu%20Nag&aid=uGICAgMC40K_nUw"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=NK-Works&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="./assets/images/GooglePay_QR.png"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=NK-Works&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 <p align="center">
