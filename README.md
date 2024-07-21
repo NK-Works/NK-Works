@@ -51,7 +51,7 @@
 </a> 
 
 <!-- Bio -->
-### CONGRATULATIONS! YOU FOUND ME
+###  CONGRATULATIONS! YOU FOUND ME :)
 
 - 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
 - 📚 I’m currently learning **Docker, JUnit and Mockito** 😅
