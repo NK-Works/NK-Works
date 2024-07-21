@@ -18,7 +18,7 @@
 </a>
 
 <br/>
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> People tell lies but their code show the truth</h1>
+<h2 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> People tell lies but their code show the truth</h2>
 
 
     
