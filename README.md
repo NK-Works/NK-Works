@@ -238,12 +238,106 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h3 align="center">
-    Currently Coding and Reading Web Novels
-    <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    📚 Coding💻 and Reading Web Novels! 🚀
+    <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </h3>
- <div align="center">
+
+<!--QUOTE-->
+<br/><br/>
+  <div align="center">
+
+
+<a href="https://github.com/walidbosso"> 
+ <img align="center" src="./images/city.gif" width="60%" align="center">   
+</a>
+
+ 
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
+
+
+
+<!-- views-->
+  <img align="left" width="0px" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true" />
+
+
+
+
+
+</div>
+<br/>
+
+
+
+<p align="center">
+⏳  𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
+<br/><br/>
+</p>
+
+<p align="center">
+<a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/clock.svg" alt="Clock" width="200px" height="200px" title="⌚ Front-End"></a><a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/xlzpyflf.png" alt="Clock" width="200px" height="200px" title="⚙️ Back-End"></a>
+ 
+</p>
+
+<br/>
+
+
+  
+<a href="https://github.com/walidbosso"> 
+ <img align="center" src="./images/citytheme.gif" width="60%" >   
+</a>
+
+
+</div>
 
 
 
 
  </p>
+</details>
+
+<br/>
+
+<a href="https://github.com/walidbosso"> 
+ <img align="center" src="./images/skills.png" width="100%">   
+</a>
+
+</div>
+
+
+<a href="https://github.com/walidbosso">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
+
+ <!--MOON-->
+ 
+<a href="https://github.com/walidbosso"> 
+  <img width="30" align ="left"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+<a href="https://github.com/walidbosso"> 
+  <img width="30" align ="right"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+
+
+<!--THANKS-->
+ <p align="center">
+<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+</p>
+
+
+
+ <p align="center">
+  <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
+</p>
+
+
+<!--
+[![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=walidbosso)
+
+[![GitHub forks](https://img.shields.io/github/forks/walidbosso/MATLAB_Image_processing_app.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/walidbosso/MATLAB_Image_processing_app/network/)
+[![GitHub watchers](https://img.shields.io/github/watchers/walidbosso/MATLAB_Image_processing_app.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/walidbosso/MATLAB_Image_processing_app/watchers/)
+ <img align="left" src="https://img.shields.io/github/downloads/walidbosso/MATLAB_Image_processing_app/total.svg" width="200">   
+-->
+ <!--
+
+--> 
+<!--
+
+-->
