@@ -196,9 +196,7 @@
 </a>
 </p>
 
-
-<!--More REPOSITORIES-->
-
+<!--My REPOSITORIES-->
 
 <details open align="center">
   <summary>📁 My Repositories</summary>
@@ -210,7 +208,7 @@
 [![Web Developement](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Web-Development-Projects\&theme=holi)](https://github.com/NK-Works/Web-Development-Projects/tree/main/Task6.1HD)
 [![IoT](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Embedded-System-Projects\&theme=holi)](https://github.com/NK-Works/Embedded-System-Projects)
 <!-- [![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/NK-Works/mongdb_express_Movies_api_using_openai) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 [![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=NK-Works&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=NK-Works)](https://github.com/NK-Works?tab=repositories&q=&type=&language=&sort=stargazers)
 
 ### Show some 💙 by starring ⭐ some of the repositories!
