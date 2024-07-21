@@ -147,73 +147,55 @@
 </a>
 
 <p align="center">
-
 <br/>
-
 <a href="https://github.com/NK-Works">
     <img align="center" width ="%" src="https://img.shields.io/github/followers/NK-Works?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge">
 </a>
 
 <p align="center">
-<a href="https://github.com/NK-Works">
-
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NK-Works&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
-
-</a>
-
-<br/>
-
+    <a href="https://github.com/NK-Works">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=NK-Works&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
+    </a>
+    <br/>
 </p >
 
-
- <!--More Stats-->
-
- 
-
+<!--More Stats-->
 <details open align="center">
-  <summary>📈 More Stats</summary>
-  <br>
+    <summary>📈 More Stats</summary>
+    <br>
  
 <p align="center">
-<a href="https://github.com/NK-Works"> 
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNK-Works%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
-</a></p>
+    <a href="https://github.com/NK-Works"> 
+    <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNK-Works%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
+    </a>
+</p>
 
 <p align="center">
-<div align="center">
- <a href="https://github.com/NK-Works"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NK-Works&theme=algolia" width="100%" /> </br></br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NK-Works&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NK-Works&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NK-Works&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
-</br></br>
- </a>
-<a href="https://github.com/NK-Works"> 
- <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
+    <div align="center">
+        <a href="https://github.com/NK-Works"> 
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NK-Works&theme=algolia" width="100%" /> 
+            </br></br>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NK-Works&theme=algolia" width="31%" align="left"/>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NK-Works&theme=algolia" width="31%" align="right" />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NK-Works&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+            </br></br>
+        </a>
+        <a href="https://github.com/NK-Works"> 
+        <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
   </a> 
   
- [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=NK-Works&theme=algolia&card_width=1000)](https://github.com/NK-Works) </br></br>
+[![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=NK-Works&theme=algolia&card_width=1000)](https://github.com/NK-Works) </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=NK-Works&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/NK-Works) </br>
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=NK-Works&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/NK-Works) 
 </div>
 
-
-
-<a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
- 
-
-<!--  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNK-Works%2Fhit-counter&count_bg=%6EB9F2&title_bg=%01102D&icon=workplace.svg&icon_color=%41C350&title=Profile+Views&edge_flat=true" width="">    
- <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">     -->
-</a><br/><br/>
- <div align="center">
+<!-- <br/> <br/>
+<div align="center">
 </p >
 <br/>
-</details>
+</details> -->
 
 <!--SNAKE-->
-
-
 <p align="center">
 <a href="https://github.com/NK-Works">
    <img alt="github-snake" src="https://raw.githubusercontent.com/NK-Works/NK-Works/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
