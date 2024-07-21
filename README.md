@@ -9,7 +9,7 @@
     <img align="center" src="./assets/images/git_background.png" width="100%">    
 </a>
 
-<br/>
+<br>
 
 <a href="https://github.com/NK-Works"> 
     <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
