@@ -48,7 +48,7 @@
 </a> -->
 
 <!-- Name -->
-<h3 align="center"> <a> Hello Contributor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> I am Anneshu Nag </a> </h3>
+<h2 align="center"> <a> Hello Contributor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> I am Anneshu Nag </a> </h2>
 
 <!-- Bio -->
 ### Congratulations you found me
