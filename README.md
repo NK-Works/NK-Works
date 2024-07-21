@@ -80,7 +80,7 @@
   <!-- <br> -->
 </p>
 
-<!--Skills-->
+<!-- Skills
 <a href="https://github.com/NK-Works">
     <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
@@ -96,7 +96,7 @@
 
 <a href="https://github.com/NK-Works">
     <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" />
-</a>
+</a> -->
 
 <br/> 
 
