@@ -46,7 +46,7 @@
 <!-- Name -->
 <h2 align="center"> 
     <a> Hello Contributor! 
-        <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="26"> 
+        <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> 
             I am Anneshu Nag 
     </a> 
 </h2>
