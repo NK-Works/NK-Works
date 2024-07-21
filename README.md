@@ -46,7 +46,7 @@
 <!-- Name -->
 <h2 align="center"> 
     <a> Hello Contributor! 
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> 
+        <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="21"> 
             I am Anneshu Nag 
     </a> 
 </h2>
@@ -77,8 +77,7 @@
     <a href="https://www.youtube.com/@ascendent6949" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" /></a>
     <a href="https://www.instagram.com/never__know___/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" />
-    </a>
+        <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
     <a href="https://x.com/never__know___">
         <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fnever__know___" /></a>
     <a href="https://www.facebook.com/Nag.Anneshu/" target="_blank">
