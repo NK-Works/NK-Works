@@ -51,10 +51,13 @@
 </a> 
 
 <!-- Bio -->
-###  CONGRATULATIONS! YOU FOUND ME :)
+###  CONGRATULATIONS! YOU FOUND ME :
 
-- 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
-- 📚 I’m currently learning **Docker, JUnit and Mockito** 😅
-- 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
+- 👨‍💻 I'm a versatile software developer with experience in `Node.js`, `.NET Core`, `React`, `IoT`, and more.
+- 🎓  Cruising through my 3rd year at **Chitkara University in Punjab, India**—where learning meets adventure!
+- 📚 Currently diving into **Jenkins, Generative AI, and React Native** to expand my skills! 😅
+- 💪🏼 My future goals? Mastering Deep Machine Learning to turn ambitious ideas into powerful software solutions.
+- ⚡ **Building software to achieve dreams!**
+
 
 
