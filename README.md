@@ -120,11 +120,11 @@
 | <p align="center">[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/NK-Works) |<p align="center">[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://github.com/NK-Works) |<p align="center"> [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)](https://github.com/NK-Works) | <p align="center"> [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/NK-Works) | <p align="center">[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/NK-Works)  | <p align="center">[![Postman](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)](https://github.com/NK-Works)                                                  |                                            |
 | <p align="center">[![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/NK-Works) |<p align="center">[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/NK-Works) | <p align="center">[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://github.com/NK-Works) | <p align="center"> [![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)](https://github.com/NK-Works)   |  <p align="center"> [![Intelij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](https://github.com/NK-Works)      |  <p align="center">[![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)](https://github.com/NK-Works)  |    -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/anneshu-nag/details/certifications/" title="💻My Certificates"><img src="./images/Certificates1.png" alt="Cert" width="200px" height="200px" /></a>
 <a href="https://www.linkedin.com/in/anneshu-nag/details/education/" title="🎓 Master's in Computer Science Engineering, University Abdelmalek Essaâd"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
 <a href="https://www.linkedin.com/in/anneshu-nag/details/projects/" title="🎓 Master's in Computer Science Engineering, University Abdelmalek Essaâd"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
-</p>
+</p> -->
 </div>
 
 <!--STATS-->
@@ -239,105 +239,30 @@
 
 <h3 align="center">
     📚 Coding💻 and Reading Web Novels! 🚀
-    <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </h3>
 
 <!--QUOTE-->
-<br/><br/>
-  <div align="center">
+<div align="center">
 
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/NK-Works)
 
-<a href="https://github.com/walidbosso"> 
- <img align="center" src="./images/city.gif" width="60%" align="center">   
+<a href="https://github.com/NK-Works">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
- 
-[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
-
-
-
-<!-- views-->
-  <img align="left" width="0px" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true" />
-
-
-
-
-
-</div>
-<br/>
-
-
-
-<p align="center">
-⏳  𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
-<br/><br/>
-</p>
-
-<p align="center">
-<a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/clock.svg" alt="Clock" width="200px" height="200px" title="⌚ Front-End"></a><a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/xlzpyflf.png" alt="Clock" width="200px" height="200px" title="⚙️ Back-End"></a>
- 
-</p>
-
-<br/>
-
-
-  
-<a href="https://github.com/walidbosso"> 
- <img align="center" src="./images/citytheme.gif" width="60%" >   
-</a>
-
-
-</div>
-
-
-
-
- </p>
-</details>
-
-<br/>
-
-<a href="https://github.com/walidbosso"> 
- <img align="center" src="./images/skills.png" width="100%">   
-</a>
-
-</div>
-
-
-<a href="https://github.com/walidbosso">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
-</a>
-
- <!--MOON-->
- 
-<a href="https://github.com/walidbosso"> 
-  <img width="30" align ="left"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
-<a href="https://github.com/walidbosso"> 
-  <img width="30" align ="right"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+<!--End-->
+<a href="https://github.com/NK-Works"> 
+  <img width="30" align ="left"  src="./assets/gifs/quote.webp" alt="quote.webp" />
+<a href="https://github.com/NK-Works"> 
+  <img width="30" align ="right"  src="./assets/gifs/quote.webp" alt="quote.webp" />
 
 
 <!--THANKS-->
  <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="./assets/images/GooglePay_QR.png"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=NK-Works&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
-
-
- <p align="center">
-  <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
+<p align="center">
+  <a href="https://github.com/NK-Works"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
 </p>
-
-
-<!--
-[![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=walidbosso)
-
-[![GitHub forks](https://img.shields.io/github/forks/walidbosso/MATLAB_Image_processing_app.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/walidbosso/MATLAB_Image_processing_app/network/)
-[![GitHub watchers](https://img.shields.io/github/watchers/walidbosso/MATLAB_Image_processing_app.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/walidbosso/MATLAB_Image_processing_app/watchers/)
- <img align="left" src="https://img.shields.io/github/downloads/walidbosso/MATLAB_Image_processing_app/total.svg" width="200">   
--->
- <!--
-
---> 
-<!--
-
--->
