@@ -16,7 +16,7 @@
 <p align="center">
  
 <a href="https://github.com/NK-Works"> 
- <img src="https://readme-typing-svg.demolab.com?font=Arial&size=18&duration=3200&pause=100&multiline=true&width=550&height=80&lines=Anneshu+Nag;Versatile+Software+Developer+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+NodeJS+with+React+%7C+MERN+%7C+Java+%7C+DevOps;" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3200&pause=100&multiline=true&width=550&height=80&lines=Anneshu+Nag;Versatile+Software+Developer+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+NodeJS+with+React+%7C+MERN+%7C+Java+%7C+DevOps;" alt="Typing SVG" />
 </a>
 
 <br/>
