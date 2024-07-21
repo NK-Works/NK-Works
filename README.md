@@ -7,7 +7,7 @@
  <img align="center" src="./assets/images/git_background.png" width="100%">    
 </a>
 
-<br/>
+<!-- <br> -->
 <a href="https://github.com/NK-Works"> 
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
@@ -16,8 +16,8 @@
 <a href="https://github.com/NK-Works"> 
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3200&pause=100&multiline=true&width=550&height=80&lines=Anneshu+Nag;Versatile+Software+Developer+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+NodeJS+with+React+%7C+MERN+%7C+Java+%7C+DevOps;" alt="Typing SVG" />
 </a>
-
 <br/>
+
 <h3 align="center"> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> "Talk is cheap. Show me the code" - Linus Torvalds <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h3> 
