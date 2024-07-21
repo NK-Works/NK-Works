@@ -51,7 +51,7 @@
 </a> 
 
 <!-- Bio -->
-###  CONGRATULATIONS! YOU FOUND ME :)
+###  Congratulations! You found me :)
 
 - 👨‍💻 I'm a versatile software developer with experience in **`Node.js`, `.NET Core`, `React`, `IoT`**, and more.
 - 🎓  Cruising through my 3rd year at **Chitkara University in Punjab, India**—where learning meets adventure!
@@ -61,7 +61,7 @@
 
 <!-- Contact Info -->
 
-### Contact Me:
+### Contact me:
 <p align="center">
   <a href="https://www.linkedin.com/in/anneshu-nag" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nkworks777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
