@@ -18,7 +18,20 @@
 </a>
 <br/>
 
+<h3 align="center">
+ <a href="https://github.com/walidbosso">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+ 
+ <a href="https://github.com/walidbosso">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
+    "Talk is cheap. Show me the code." - Linus Torvalds
+</h3>
+
+
+
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> "Talk is cheap. Show me the code" - Linus Torvalds <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> "Talk is cheap. Show me the code." - Linus Torvalds <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h3> 
     
