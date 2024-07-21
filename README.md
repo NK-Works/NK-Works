@@ -42,6 +42,6 @@
 </a>
 
 <h3 align="center">
-    </a> Hello <contributor/>!  
+    </a> Hello < contributor/>!  
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> I am Anneshu Nag
 </h3>
