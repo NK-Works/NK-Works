@@ -207,14 +207,14 @@
 
 [![Art-Gallery](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Art-Gallery\&theme=algolia)](https://github.com/NK-Works/Art-Gallery)
 [![Robot-Controller-API](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Robot-Controller-API\&theme=algolia)](https://github.com/NK-Works/Robot-Controller-API)
-<!-- [![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Laravel_pharmacy_management\&theme=holi)](https://github.com/walidbosso/Laravel_pharmacy_management)
+[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Web-Development-Projects/tree/main/Task6.1HD\&theme=holi)](https://github.com/NK-Works/Web-Development-Projects/tree/main/Task6.1HD)
 [![Java-threads-udp-tcp-rmi-charts Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Java-threads-udp-tcp-rmi-charts\&theme=holi)](https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts)
 [![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/walidbosso/mongdb_express_Movies_api_using_openai)
 [![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Nodejs_playground\&theme=github_dark)](https://github.com/walidbosso/Nodejs_playground)
 [![walidbosso Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=walidbosso\&theme=holi)](https://github.com/walidbosso/walidbosso)
 [![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=CV_BOUSSOU_Walid\&theme=holi)](https://github.com/walidbosso/CV_BOUSSOU_Walid)
 [![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&theme=algolia)](https://github.com/walidbosso/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
-[![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&theme=algolia)](https://github.com/walidbosso/AJAX-XML) -->
+[![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&theme=algolia)](https://github.com/walidbosso/AJAX-XML)
 
 [![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=NK-Works&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=NK-Works)](https://github.com/NK-Works?tab=repositories&q=&type=&language=&sort=stargazers)
 
