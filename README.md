@@ -70,8 +70,7 @@
 ### Contact me:
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/anneshu-nag" target="_blank" >
-        <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/anneshu-nag" target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:nkworks777@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
