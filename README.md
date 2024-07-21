@@ -155,9 +155,9 @@
 </a>
 
 <p align="center"> 
-<a href="https://user-badge.committers.top/india/NK-Works"> 
- <img align="center" src="https://aktive.kerolloz.dev/morocco/NK-Works?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />    
-</a></p >
+    <a href="https://user-badge.committers.top/india/NK-Works"><img align="center" src="https://aktive.kerolloz.dev/morocco/NK-Works?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />    
+    </a>
+</p >
 
  <p align="center">
 <a href="https://github.com/NK-Works">
