@@ -51,9 +51,9 @@
 </a> 
 
 <!-- Bio -->
-###  CONGRATULATIONS! YOU FOUND ME :
+###  CONGRATULATIONS! YOU FOUND ME :)
 
-- 👨‍💻 I'm a versatile software developer with experience in `Node.js`, `.NET Core`, `React`, `IoT`, and more.
+- 👨‍💻 I'm a versatile software developer with experience in **`Node.js`, `.NET Core`, `React`, `IoT`**, and more.
 - 🎓  Cruising through my 3rd year at **Chitkara University in Punjab, India**—where learning meets adventure!
 - 📚 Currently diving into **`Jenkins`, `Generative AI`, and `React Native`** to expand my skills! 😅
 - 💪🏼 My future goals? Mastering **`Deep Machine Learning`** to turn ambitious ideas into powerful software solutions.
