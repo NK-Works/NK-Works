@@ -207,7 +207,7 @@
 
 [![Art-Gallery](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Art-Gallery\&theme=algolia)](https://github.com/NK-Works/Art-Gallery)
 [![Robot-Controller-API](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Robot-Controller-API\&theme=algolia)](https://github.com/NK-Works/Robot-Controller-API)
-[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Web-Development-Projects/tree/main/Task6.1HD\&theme=holi)](https://github.com/NK-Works/Web-Development-Projects/tree/main/Task6.1HD)
+[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Web-Development-Projects\&theme=holi)](https://github.com/NK-Works/Web-Development-Projects/tree/main/Task6.1HD)
 [![Java-threads-udp-tcp-rmi-charts Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Java-threads-udp-tcp-rmi-charts\&theme=holi)](https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts)
 [![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/walidbosso/mongdb_express_Movies_api_using_openai)
 [![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Nodejs_playground\&theme=github_dark)](https://github.com/walidbosso/Nodejs_playground)
