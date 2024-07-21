@@ -128,36 +128,35 @@
 </div>
 
 <!--STATS-->
-
 <a href="https://github.com/NK-Works">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
 <h3 align="center">
- <a href="https://github.com/NK-Works">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/NK-Works">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿Ｓｔａｔｓ】 
-
+    <a href="https://github.com/NK-Works">
+        <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> 
+    <a href="https://github.com/NK-Works">
+        <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+    </a> 
+    【Ｓｔａｔｓ】 
 </h3>
 
 <a href="https://github.com/NK-Works">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
- 
-
-
 
 <p align="center">
- <br/>
-<a href="https://github.com/NK-Works"><img align="center" width ="%" src="https://img.shields.io/github/followers/NK-Works?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
 
+<br/>
 
+<a href="https://github.com/NK-Works">
+    <img align="center" width ="%" src="https://img.shields.io/github/followers/NK-Works?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge">
+</a>
 
 <p align="center"> 
-<a href="https://user-badge.committers.top/morocco/NK-Works"> 
-<!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/NK-Works?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
+<a href="https://user-badge.committers.top/india/NK-Works"> 
+ <img align="center" src="https://aktive.kerolloz.dev/morocco/NK-Works?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />    
 </a></p >
 
  <p align="center">
