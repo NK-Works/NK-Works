@@ -184,7 +184,7 @@
         <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
   </a> 
   
-[![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=NK-Works&theme=algolia&card_width=1000)](https://github.com/NK-Works) </br></br>
+[![github streak](https://github-readme-streak-stats.herokuapp.com/?user=NK-Works&theme=algolia&card_width=1000)](https://github.com/NK-Works) </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=NK-Works&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/NK-Works) </br>
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=NK-Works&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/NK-Works) 
 </div>
@@ -205,7 +205,7 @@
   <br>
   <p align="center">
 
-[![Art-Gallery](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Art-Gallery\&theme=algolia)](https://github.com/NK-Works/Art-Gallery)
+[![Automated-Library-Management-System](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Automated-Library-Management-System\&theme=algolia)](https://github.com/NK-Works/Automated-Library-Management-System)
 [![Robot-Controller-API](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Robot-Controller-API\&theme=algolia)](https://github.com/NK-Works/Robot-Controller-API)
 [![Web Developement](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Web-Development-Projects\&theme=holi)](https://github.com/NK-Works/Web-Development-Projects/tree/main/Task6.1HD)
 [![IoT](https://github-readme-stats.vercel.app/api/pin?username=NK-Works\&repo=Embedded-System-Projects\&theme=holi)](https://github.com/NK-Works/Embedded-System-Projects)
