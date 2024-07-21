@@ -154,12 +154,7 @@
     <img align="center" width ="%" src="https://img.shields.io/github/followers/NK-Works?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge">
 </a>
 
-<p align="center"> 
-    <a href="https://user-badge.committers.top/india/NK-Works"><img align="center" src="https://aktive.kerolloz.dev/morocco/NK-Works?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />    
-    </a>
-</p >
-
- <p align="center">
+<p align="center">
 <a href="https://github.com/NK-Works">
 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NK-Works&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
