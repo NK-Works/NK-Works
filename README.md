@@ -68,7 +68,7 @@
   <a href="https://www.youtube.com/@ascendent6949" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" /></a>
   <a href="https://www.instagram.com/never__know___/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
   <a href="https://t.me/nk_works7" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
-  <!-- <a href="http://NK-Works.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a> -->
+  <a href="https://x.com/never__know___"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fnever__know___" /></a>
  
 </p>
 
