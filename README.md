@@ -14,11 +14,9 @@
 <p align="center">
  
 <a href="https://github.com/NK-Works"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3100&pause=50&multiline=true&width=550&height=80&lines=Anneshu+Nag;Versatile+Software+Developer+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+NodeJS+with+React+%7C+MERN+%7C+Java+%7C+DevOps;" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3200&pause=100&multiline=true&width=550&height=80&lines=Anneshu+Nag;Versatile+Software+Developer+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+NodeJS+with+React+%7C+MERN+%7C+Java+%7C+DevOps;" alt="Typing SVG" />
 </a>
 
 <br/>
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" font= 'Arial'/>People tell lies but their code show the truth</h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" font= 'Arial'/> People tell lies but their code show the truth</h1>
 
-
-    
