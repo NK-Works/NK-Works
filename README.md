@@ -216,6 +216,39 @@
 ### Show some 💙 by starring ⭐ some of the repositories!
 <br/>
 
+<!-- Hobbies -->
+<a href="https://github.com/NK-Works">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
+
+<a href="https://github.com/NK-Works"> 
+<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
+<a href="https://github.com/NK-Works"> 
+ <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
+
+
+  <a href="https://github.com/NK-Works"> 
+ <img align="left" src="./images/good-times.svg" width="10%">   
+</a>
+<a href="https://github.com/NK-Works"> 
+ <img align="right" src="./images/good-times.svg" width="10%">   
+</a>
+ <h2 align="center" width="20" >
+   【H o b b i e s】
+</h2>
+
+
+
+<!--spotify CARD-->
+
+<br>
+<h4 align="center">
+Currently Coding and Listening
+</h4>
+ <div align="center">
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 
 
  </p>
