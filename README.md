@@ -221,7 +221,7 @@
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
-<h2 align="center">
+<h3 align="center">
     <a href="https://github.com/NK-Works">
         <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a>
@@ -229,10 +229,10 @@
         <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
     【H o b b i e s】  
-</h2>
+</h3>
 
 <a href="https://github.com/NK-Works">
-        <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </a>
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
