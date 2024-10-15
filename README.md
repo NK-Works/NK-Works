@@ -197,7 +197,6 @@
 </p>
 
 <!--My REPOSITORIES-->
-
 <details open align="center">
   <summary>📁 My Repositories</summary>
   <br>
@@ -213,6 +212,26 @@
 
 ### Show some 💙 by starring ⭐ some of the repositories!
 <br/>
+
+<!-- Open Source Contibutions -->
+<a href="https://github.com/NK-Works">
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+    <a href="https://github.com/NK-Works">
+        <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> 
+    <a href="https://github.com/NK-Works">
+        <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+    </a>
+    【O p e n   S o u r c e 】  
+</h3>
+
+<a href="https://github.com/NK-Works">
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+
+[![An image of @nkworks's Holopin badges](https://holopin.me/nkworks)](https://holopin.io/@nkworks)
 
 <!-- Hobbies -->
 <a href="https://github.com/NK-Works">
