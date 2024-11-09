@@ -173,11 +173,11 @@
 <p align="center">
     <div align="center">
         <a href="https://github.com/NK-Works"> 
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NK-Works&theme=discord" width="100%" /> 
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NK-Works&theme=algolia" width="100%" /> 
             </br></br>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NK-Works&theme=discord" width="31%" align="left"/>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NK-Works&theme=discord" width="31%" align="right" />
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NK-Works&theme=discord" width="31%" align="center" title="🦉 Night owl" />  
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NK-Works&theme=algolia" width="31%" align="left"/>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NK-Works&theme=algolia" width="31%" align="right" />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NK-Works&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
             </br></br>
         </a>
         <a href="https://github.com/NK-Works"> 
@@ -186,7 +186,8 @@
   
 [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=NK-Works&theme=algolia&card_width=1000)](https://github.com/NK-Works) </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=NK-Works&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/NK-Works) </br>
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=NK-Works&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/NK-Works) 
+<!-- https://github-profile-trophy.vercel.app/?username=NK-Works&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues -->
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=NK-Works&column=8&margin-w=20&margin-h=20&no-frame=true&theme=discord)](https://github.com/NK-Works) 
 </div>
 
 <!--SNAKE-->
