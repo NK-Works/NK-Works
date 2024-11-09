@@ -154,7 +154,7 @@
 
 <p align="center">
     <a href="https://github.com/NK-Works">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=NK-Works&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=discord" alt="NK's github stats"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=NK-Works&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="NK's github stats"/>
     </a>
     <br/>
 </p >
