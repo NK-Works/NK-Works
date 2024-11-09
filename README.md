@@ -181,7 +181,7 @@
             </br></br>
         </a>
         <a href="https://github.com/NK-Works"> 
-        <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
+        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution sts" width="%" /></br></br>
   </a> 
   
 [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=NK-Works&theme=algolia&card_width=1000)](https://github.com/NK-Works) </br></br>
