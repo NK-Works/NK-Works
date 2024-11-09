@@ -186,8 +186,7 @@
   
 [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=NK-Works&theme=algolia&card_width=1000)](https://github.com/NK-Works) </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=NK-Works&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/NK-Works) </br>
-<!-- https://github-profile-trophy.vercel.app/?username=NK-Works&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues -->
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=NK-Works&column=8&margin-w=20&margin-h=20&no-frame=true&theme=discord)](https://github.com/NK-Works) 
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=NK-Works&column=8&margin-w=10&margin-h=20&no-frame=false&theme=discord&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues,Experience)](https://github.com/NK-Works) 
 </div>
 
 <!--SNAKE-->
