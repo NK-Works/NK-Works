@@ -173,11 +173,11 @@
 <p align="center">
     <div align="center">
         <a href="https://github.com/NK-Works"> 
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NK-Works&theme=algolia" width="100%" /> 
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NK-Works&theme=discord" width="100%" /> 
             </br></br>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NK-Works&theme=algolia" width="31%" align="left"/>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NK-Works&theme=algolia" width="31%" align="right" />
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NK-Works&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NK-Works&theme=discord" width="31%" align="left"/>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NK-Works&theme=discord" width="31%" align="right" />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NK-Works&theme=discord" width="31%" align="center" title="🦉 Night owl" />  
             </br></br>
         </a>
         <a href="https://github.com/NK-Works"> 
