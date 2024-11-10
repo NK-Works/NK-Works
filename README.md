@@ -230,7 +230,7 @@
 
 <a href="https://github.com/NK-Works">
     <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-	
+</a>	
 <!-- GSSoC -->
 <div align="center">
   <table>
