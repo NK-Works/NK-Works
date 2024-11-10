@@ -233,6 +233,7 @@
 
 [![An image of @nkworks's Holopin badges](https://holopin.me/nkworks)](https://holopin.io/@nkworks)
 	
+<!-- GSSoC -->
 <div align="center">
   <table>
     <tr align="center">
@@ -295,7 +296,7 @@
             <td style="padding: 10px;" width="100">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Postman%20API%20Expert%20Badge.png" alt="Postman API Expert Badge" width="80" />
               <br>
-              <strong>API Expert Badge</strong>
+              <strong>API Expert</strong>
               <br>
             </td>
           </tr>
