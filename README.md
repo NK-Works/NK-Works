@@ -282,7 +282,7 @@
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
-              <strong>Summit Seeker Badge</strong>
+              <strong>Summit Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Innovator%20Badge.png" alt="Innovator Badge" width="80" />
@@ -292,12 +292,12 @@
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Hack-Web3Conf%20Badge.png" alt="Hack-Web3Conf 2024 Badge" width="80" />
               <br>
-              <strong>Hack-Web3Conf Badge</strong>
+              <strong>Hack-Web3Conf</strong>
             </td>
             <td style="padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Postman%20API%20Expert%20Badge.png" alt="Postman API Expert Badge" width="80" />
               <br>
-              <strong>API Expert Badge</strong>
+              <strong>Postman API Expert</strong>
               <br>
             </td>
           </tr>
