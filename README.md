@@ -243,9 +243,9 @@
           <br>
           <strong>GirlScript Summer of Code</strong>
         </h>
-        <br> <br>
-        🏅 <strong>Ranked 45th</strong>
         <br>
+        🏅 <strong>Ranked 45th</strong>
+        <br><br>
         <p>
             Out of <strong> 60,000+ </strong> participants<br>
             PRs Merged: <strong> 62+ </strong><br>
