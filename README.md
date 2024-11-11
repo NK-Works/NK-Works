@@ -256,7 +256,7 @@
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
         <table height="100%">
-          <tr align="center">
+          <tr align="center" height="50%">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
               <br>
@@ -278,7 +278,7 @@
               <strong>Trailblazer</strong>
             </td>
           </tr>
-          <tr align="center">
+          <tr align="center" height="50%">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
