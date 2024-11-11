@@ -260,44 +260,44 @@
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
               <br>
-              <strong>Explorer</strong>
+              <strong>Explorer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
               <br>
-              <strong>Adventurer</strong>
+              <strong>Adventurer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Champion%20Badge.png" alt="Champion Badge" width="80" />
               <br>
-              <strong>Champion</strong>
+              <strong>Champion Badge</strong>
             </td>
             <td style="padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
               <br>
-              <strong>Trailblazer</strong>
+              <strong>Trailblazer Badge</strong>
             </td>
           </tr>
           <tr align="center" height="50%">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
-              <strong>Summit</strong>
+              <strong>Summit Seeker Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Innovator%20Badge.png" alt="Innovator Badge" width="80" />
               <br>
-              <strong>Innovator</strong>
+              <strong>Innovator Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Hack-Web3Conf%20Badge.png" alt="Hack-Web3Conf 2024 Badge" width="80" />
               <br>
-              <strong>Hack-Web3</strong>
+              <strong>Hack-Web3Conf Badge</strong>
             </td>
             <td style="padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Postman%20API%20Expert%20Badge.png" alt="Postman API Expert Badge" width="80" />
               <br>
-              <strong>API Expert</strong>
+              <strong>API Expert Badge</strong>
               <br>
             </td>
           </tr>
