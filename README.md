@@ -245,7 +245,8 @@
         </h>
         <br>
         🏅 <strong>Ranked 45th</strong>
-        <br><br>
+        <br>
+        <hr>
         <p>
             Out of <strong> 60,000+ </strong> participants<br>
             PRs Merged: <strong> 62+ </strong><br>
