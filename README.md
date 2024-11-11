@@ -255,7 +255,7 @@
         </p>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
-        <table>
+        <table height="100%">
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
