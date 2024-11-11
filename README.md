@@ -237,20 +237,23 @@
 <div align="center">
   <table>
     <tr align="center">
-        <td style="border-right: 1px solid #dddddd; padding: 20px; text-align: center; white-space: nowrap;" valign="top" width="50%">
-            <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/gssoc.png" alt="GirlScript Summer of Code" width="100" style="margin-bottom: 10px;" />
-            <h2 style="font-size: 18px; color: #333333; margin: 10px 0;">
-                GirlScript Summer of Code
-            </h2>
-            <p style="font-size: 15px; color: #555555; margin: 8px 0;">🏅 <strong>Ranked 46th</strong></p>
-            <p style="font-size: 14px; color: #666666; line-height: 1.5;">
-                Out of 60,000+ participants<br>
-                <strong>PRs Merged:</strong> 62+<br>
-                <strong>Total Badges:</strong> 8<br>
-                <strong>Total Score:</strong> 2260
-            </p>
-        </td>
-        <td style="padding: 15px;" valign="top" width="50%">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <h>
+          <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <br>
+          <strong>GirlScript Summer of Code</strong>
+        </h>
+        <br>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 46th</span>
+        <br>
+        <span style="font-size: 12px; color: #777777;">
+	    Out of 60,000+ participants<br>
+        PRs Merged: 62+<br>
+        Total Badges: 8<br>
+        Total Score: 2260<br>
+        </span>
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
