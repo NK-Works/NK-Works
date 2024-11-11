@@ -243,15 +243,15 @@
           <br>
           <strong>GirlScript Summer of Code</strong>
         </h>
-        <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 46th</span>
-        <br>
-        <span style="font-size: 10px; color: #777777;">
-	    Out of 60,000+ participants<br>
-        PRs Merged: 62+<br>
-        Total Badges: 8<br>
-        Total Score: 2260<br>
-        </span>
+        <br> <br>
+        🏅 <strong>Ranked 45th</strong>
+        <br> <br>
+        <sub>
+            Out of 60,000+ participants<br>
+            PRs Merged: 62+<br>
+            Total Badges: 8<br>
+            Total Score: 2260
+        </sub>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
         <table>
