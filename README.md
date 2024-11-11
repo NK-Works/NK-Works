@@ -231,67 +231,64 @@
 <a href="https://github.com/NK-Works">
     <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a> 
-<br/>
 
 <!-- GSSoC -->
+<br/>
 <div align="center">
   <table>
     <tr align="center">
-      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
-        <h>
-          <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/gssoc.png" alt="GirlScript Summer of Code" width="120" />
-          <br>
-          <strong>GirlScript Summer of Code</strong>
-        </h>
-        <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 46th</span>
-        <br>
-        <span style="font-size: 12px; color: #777777;">
-	    Out of 60,000+ participants<br>
-        PRs Merged: 55+<br>
-        Total Badges: 8<br>
-        Total Score: 2195<br>
-        </span>
-      </td>
-      <td style="padding: 15px;" valign="top" width="50%">
+        <td style="border-right: 1px solid #dddddd; padding: 20px; text-align: center; white-space: nowrap;" valign="top" width="40%">
+            <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/gssoc.png" alt="GirlScript Summer of Code" width="100" style="margin-bottom: 10px;" />
+            <h2 style="font-size: 18px; color: #333333; margin: 10px 0;">
+                GirlScript Summer of Code
+            </h2>
+            <p style="font-size: 15px; color: #555555; margin: 8px 0;">🏅 <strong>Ranked 46th</strong></p>
+            <p style="font-size: 14px; color: #666666; line-height: 1.5;">
+                Out of 60,000+ participants<br>
+                <strong>PRs Merged:</strong> 62+<br>
+                <strong>Total Badges:</strong> 8<br>
+                <strong>Total Score:</strong> 2260
+            </p>
+        </td>
+        <td style="padding: 15px;" valign="top" width="60%">
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
               <br>
-              <strong>Explorer Badge</strong>
+              <strong>Explorer</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
               <br>
-              <strong>Adventurer Badge</strong>
+              <strong>Adventurer</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Champion%20Badge.png" alt="Champion Badge" width="80" />
               <br>
-              <strong>Champion Badge</strong>
+              <strong>Champion</strong>
             </td>
             <td style="padding: 10px;" width="100">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
               <br>
-              <strong>Trailblazer Badge</strong>
+              <strong>Trailblazer</strong>
             </td>
           </tr>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
-              <strong>Summit Badge</strong>
+              <strong>Summit</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Innovator%20Badge.png" alt="Innovator Badge" width="80" />
               <br>
-              <strong>Innovator Badge</strong>
+              <strong>Innovator</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Hack-Web3Conf%20Badge.png" alt="Hack-Web3Conf 2024 Badge" width="80" />
               <br>
-              <strong>Hack-Web3Conf</strong>
+              <strong>Hack-Web3</strong>
             </td>
             <td style="padding: 10px;" width="100">
               <img src="https://github.com/NK-Works/NK-Works/blob/main/open-source/Postman%20API%20Expert%20Badge.png" alt="Postman API Expert Badge" width="80" />
@@ -330,8 +327,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h3 align="center">
-    📚 Coding💻 and Reading Web Novels! 🚀
-    <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    📚 Coding💻 and Reading Web Novels!
+    <img align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </h3>
 
 <!--QUOTE-->
@@ -352,7 +349,9 @@
 
 <!--THANKS-->
  <p align="center">
-<a href="./assets/images/GooglePay_QR.png"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=NK-Works&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="./assets/images/GooglePay_QR.png">
+<br/>
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=NK-Works&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 <p align="center">
