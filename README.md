@@ -246,7 +246,7 @@
         <br>
         🏅 <strong>Ranked 45th</strong>
         <br>
-        ──────────────────────────
+        ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
         <p>
             Out of <strong> 60,000+ </strong> participants<br>
             PRs Merged: <strong> 62+ </strong><br>
@@ -255,7 +255,6 @@
         </p>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
-      <br>
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
