@@ -246,7 +246,7 @@
         <br>
         <span style="font-size: 14px; color: #555555;">🏅 Ranked 46th</span>
         <br>
-        <span style="font-size: 12px; color: #777777;">
+        <span style="font-size: 10px; color: #777777;">
 	    Out of 60,000+ participants<br>
         PRs Merged: 62+<br>
         Total Badges: 8<br>
