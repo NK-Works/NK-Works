@@ -1,5 +1,5 @@
 <!-- For this profile template, I would like to express my gratitude to https://github.com/walidbosso -->
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=header"/>
 <!-- Intro Statement -->
 
 ## Hey <𝚌𝚘𝚍𝚎𝚛/>! Nice to see you <a href= "https://github.com/NK-Works"> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> </a> <a href="https://github.com/NK-Works"> <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=NK-Works&style=for-the-badge&color=blue"> </a>
