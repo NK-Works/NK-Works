@@ -243,7 +243,7 @@
           <br>
           <strong>GirlScript Summer of Code</strong>
         </h>
-        <br>
+        <br> <br>
         🏅 <strong>Ranked 45th</strong>
         <br>
         <p>
