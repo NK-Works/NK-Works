@@ -64,7 +64,7 @@
 - 📚 Currently diving into **`Jenkins`, `Generative AI`, and `React Native`** to expand my skills! 😅
 - 💪🏼 My future goals? Mastering **`Deep Machine Learning`** to turn ambitious ideas into powerful software solutions.
 - ⚡ **Building software to achieve dreams!**
-- 🌐 Don't forget to check out my portfolio: [`**anneshunag-portfolio**`](https://anneshunag-portfolio.vercel.app/)
+- 🌐 Don't forget to check out my portfolio: <a href="https://anneshunag-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
 
 <!-- Contact Info -->
 
