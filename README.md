@@ -86,7 +86,7 @@
     <a href="https://t.me/nk_works7" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a>
   <br>
-    <a href="https://drive.google.com/file/d/1i8a_x34fk_c_Dep4n2t_rqYnKQf9SxRt/view">
+    <a href="https://drive.google.com/file/d/1Al-KneSrFTP4HhQi9g1Ij13_MGrtxN1d/view">
         <img src="https://img.shields.io/badge/My%20Resume-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
 </p>
 
